@@ -16,3 +16,5 @@
 
 #### 4) 위에서 두번째에 있는 그룹인 Input IDs 입력
 : 분류하고자 하는 BIM 객체의 ID를 입력하면 됩니다.
+
+![image](https://user-images.githubusercontent.com/90237040/227117287-b0ef4bf7-c256-4d2c-97e0-9a53157c94ec.png)
